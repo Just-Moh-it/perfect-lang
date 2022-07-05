@@ -12,7 +12,7 @@ To get started, install the compiler by running the following command:
 
 ## Creating a hello-world program
 
-To create a hello world program, create a file ending in the `.perfect` extension. Then write the following code.
+To create a hello world program, create a file ending in the `.perfect` extension. Then write the following code:
 
 ```perfect-lang
 
