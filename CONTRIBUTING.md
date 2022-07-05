@@ -1,0 +1,1 @@
+All contributions are welcome, unless it doesn't violate the motive behind this project, having 0 errors at all. If you found any errors, file a bug report issue and let us know how that was even possible
