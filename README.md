@@ -1,6 +1,6 @@
 # Perfect Lang
 
-The language that compiles without errors. Write code in perfect-lang, get 0 errors. [Learn more](https://github.com/Just-Moh-it/perfect-lang/issues/1)
+There are two ways to write error-free programs; only the third works. Perfect Lang is the language that compiles without errors. Write code in perfect-lang, get 0 errors. [Learn more](https://github.com/Just-Moh-it/perfect-lang/issues/1)
 
 ## Getting started
 
